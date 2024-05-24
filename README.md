@@ -1,4 +1,4 @@
-
+# spring-ai-chat
 本项目使用springAi调用openAi接口，目前可以使用chatGPT3.5,由于apikey原因并未上传配置文件
 配置文件信息如下：
 目前其他低版本项目或者微服务项目可以使用openfeign来调用该项目方法整合chatGpt到自己项目中
